@@ -1,0 +1,1 @@
+export const url = "https://deployement-production.up.railway.app/"
